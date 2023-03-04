@@ -7,7 +7,7 @@ Clone the project and simply run
 npm install
 ```
 
-# Runnint the project
+# Running the project
 Open cmd in the directory and run
  ```
  node scrapping_sale_list
